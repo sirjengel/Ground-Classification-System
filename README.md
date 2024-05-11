@@ -9,3 +9,6 @@ In order for the program to run smoothly, ensure the provided excel template is 
 3. Permeability, Consistency Index, Relative Density, Confinment Pressure, Swell Index, Abrasivity values. Please ensure the rows direclty underneath these specific titles are either Yes or No to indicate whether you are including them
 
 It should be noted that results should still be analysied carefully by hand to ensure the correct selection of TBM based on the ground conditions present on site.
+
+Much Love,
+Jordan Engel
